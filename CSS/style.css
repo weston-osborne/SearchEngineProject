@@ -66,6 +66,13 @@ body {
   font-family: "Libertinus Keyboard", system-ui;
   font-weight: 400;
   font-style: normal;
+  
+}
+.h2l{
+    text-align: center;
+    font-size: clamp(1.5rem, 4vw, 3rem);
+    margin-top: 1rem;
+    color: rgb(44, 106, 32);
 }
   .nav {
   display: flex;
@@ -163,7 +170,7 @@ button[type="submit"]:hover {
 .footer {
   text-align: center;
   padding: 1.5rem 0 1rem 0;
-  color: #fff;
+  color: black;
   font-size: 1rem;
   background: rgb(15, 223, 88);
   position: flex;
