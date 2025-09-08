@@ -1,3 +1,4 @@
+
 document.addEventListener('DOMContentLoaded', function() {
   const form = document.getElementById('search-form');
   const input = document.getElementById('search-input');

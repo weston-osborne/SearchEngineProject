@@ -66,6 +66,8 @@ body {
   font-family: "Libertinus Keyboard", system-ui;
   font-weight: 400;
   font-style: normal;
+  color:black;
+  font-size: clamp(2rem, 5vw, 4rem);
   
 }
 .h2l{
@@ -96,7 +98,7 @@ body {
   transition: background 0.2s, color 0.2s;
 }
 .nav-link:hover {
-  background: blue; 
+  background: rgb(38, 255, 0); 
   color: #fff;
 }
 #search-input,
