@@ -40,3 +40,4 @@ document.addEventListener('DOMContentLoaded', function() {
         navToggle.setAttribute("aria-expanded", !expanded);
         nav.classList.toggle("nav-open");
       });
+      
