@@ -1,8 +1,7 @@
-
-.site-logo{
-    width: 200px;
-    height: 200px;
-    margin-right: 1rem;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .container {
@@ -11,6 +10,11 @@
   margin: 0 auto;
   padding: 0 1rem;
   box-sizing: border-box;
+}
+.site-logo{
+    width: 200px;
+    height: 200px;
+    margin-right: 1rem;
 }
 
 html {
